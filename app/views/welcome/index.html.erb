@@ -1,0 +1,20 @@
+<%= stylesheet_link_tag "welcome"%>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-4">
+            
+        </div>
+        <div class="col-4">
+            <h1 class="title">Hello, <%= current_user.username %></h1>
+            <ul>
+                <a href='/articles' class='btn btn-primary bg-dark'>My Blog</a>
+                <a href='/articles/new' class='btn btn-primary bg-dark'> New Article</a>
+            </ul>
+        </div>
+        <div class="col-4">
+            
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,40 @@
+@import "bootstrap";
+.navbar-link{
+     text-decoration: none;
+     color: #E0DFD5;    
+}
+div.login-edit{
+     text-align: center;
+     margin-top: 10px;
+}
+body{
+     background-color: #E0DFD5;
+}
+div.warnings-edit{
+     margin-bottom: 0px;
+     padding: 0px;
+}
+p.alert-success{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+p.alert-danger{
+     text-align: center;
+     margin: 0px;
+     padding: 0px;
+}
+a.new-article{
+    margin-right: 820px;
+}
+a.my-blog{
+    margin-right: 10px;
+}
+span.user-as{
+    margin-right: 50px;
+}
+a.link{
+    margin-right: 830px;
+    font-size: 22px;
+    text-decoration: none;
+}
