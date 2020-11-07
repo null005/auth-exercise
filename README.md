@@ -1,6 +1,6 @@
 # Devise Test
 
-Simple test using Devise gem auth components, 
+Simple test using Devise gem auth components, see more about: https://github.com/heartcombo/devise.
 
 * Ruby version 2.6.6
 
