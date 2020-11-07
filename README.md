@@ -1,6 +1,6 @@
-# README
+# Devise Test
 
-Simple test using Devise gem auth components
+Simple test using Devise gem auth components, 
 
 * Ruby version 2.6.6
 
